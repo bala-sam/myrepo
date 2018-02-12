@@ -1,3 +1,1 @@
-/**
- * GNU / GPL Licence
- */
+It is a sample file
